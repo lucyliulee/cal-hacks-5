@@ -4,6 +4,7 @@ import logo from './logomeet.svg';
 import './App.css';
 import ApiCalendar from 'react-google-calendar-api';
 
+//this is the homepage for Meet My Professor
 class App extends Component {
   render() {
     return (
